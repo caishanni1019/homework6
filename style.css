@@ -1,0 +1,45 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: "微软雅黑", "Arial";
+    background-color: pink;
+}
+
+h1 {
+    font-family: "微软雅黑";
+    font-size: 50px;
+    color: purple;
+    line-height: 54px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.wordTitle {
+    font-family: "微软雅黑";
+    font-size: 28px;
+    color: #1A242C;
+    line-height: 54px;
+    margin-top: 20px;
+}
+
+.word {
+    font-family: "微软雅黑";
+    font-size: 16px;
+    line-height: 32px;
+    color: #1A242C;
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+
+a {
+    color: #cdcdcd;
+    text-decoration: none;
+}
+
+.divcss5-a,
+.divcss5-b {
+    width: 150px;
+    height: 100px;
+    float: left;
+    border: 1px solid #F00
+}
